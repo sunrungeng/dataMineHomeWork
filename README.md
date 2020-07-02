@@ -11,3 +11,10 @@
 ## 第三次
 
 选择的问题及数据集为Hotel booking demand, 酒店预订需求
+
+## 第四次
+
+数据集来源：<https://ir.library.oregonstate.edu/concern/datasets/47429f155?locale=en>
+
+数据集为wine及wave
+
